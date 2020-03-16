@@ -18,7 +18,7 @@ yazılabilmelidir.
 Ligteki takım sayısı, galibyette mağlubiyette ve beraberlikte alınacak puan sayısı  ayarlar.txt  dosyasından okunmalıdır.
 
  Puan durumu tablosunda olması gereken özellkler şunlardır. 
- -Takma isim - A, B, C gb 
+ -Takma isim - A, B, C gibi
  -Takım Uzun ismi, 12 karakter
  -Oynadığı maç sayısı
  -Galibiyet sayısı
